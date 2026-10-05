@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "A private, client-side two-factor authentication (TOTP) web app.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rundax/2fa.git"
+  },
+  "homepage": "https://github.com/rundax/2fa#readme",
+  "bugs": {
+    "url": "https://github.com/rundax/2fa/issues"
+  },
   "private": true,
   "type": "module",
   "scripts": {

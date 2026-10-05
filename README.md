@@ -35,8 +35,8 @@ Rundax 2FA provides a reliable authenticator directly in your browser without re
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/rundax-2fa.git
-cd rundax-2fa
+git clone https://github.com/rundax/2fa.git
+cd 2fa
 npm install
 ```
 
